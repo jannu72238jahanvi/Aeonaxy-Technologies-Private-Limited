@@ -1,0 +1,404 @@
+/*first page*/
+.raj {
+  font-size: 0.9rem;
+  text-align: right;
+  padding-right: 0.5rem;
+}
+.jaanu-1 {
+  color: blue;
+}
+
+.raj-1 {
+  font-size: 1.5rem;
+  text-align: justify;
+  padding-left: 1rem;
+}
+
+.raj-2 {
+  grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+  gap: 0.5rem;
+}
+
+.form-4 {
+  text-align: justify;
+  color: black;
+  padding-left: 1rem;
+  font-size: 1rem;
+  flex: auto;
+}
+.form-4 input {
+  background-color: whitesmoke;
+  border-radius:  5px 5px 5px;
+}
+.form-5 {
+  font-size: 1rem;
+  color: black;
+  padding-left: 1rem;
+  text-align: justify;
+  flex: auto;
+  margin-top: 1.5rem;
+}
+.form-5 input {
+  background-color: whitesmoke;
+  border-radius:  5px 5px 5px;
+}
+.form-6 {
+  font-size: 1rem;
+  color: black;
+  padding-left: 1rem;
+  text-align: justify;
+  flex: auto;
+}
+.form-6 input {
+  width: 30rem;
+  background-color: whitesmoke;
+  font-size: 0.9rem;
+  border-radius:  5px 5px 5px;
+}
+.form-6 span {
+  color: blueviolet;
+}
+.form-6 h5 {
+  font-size: 0.9rem;
+  padding-right: 15rem;
+}
+.form-7 {
+  padding-left: 1rem;
+  text-align: justify;
+  flex: auto;
+  font-size: 1rem;
+}
+.form-7 input {
+  background-color: rgb(242, 112, 135);
+  border-radius: 10px 10px 10px 10px;
+  width: 13rem;
+  height: 2rem;
+  color: white;
+  font-size: 0.4;
+
+}
+.skm {
+  font-size: 0.7rem;
+  padding-right: 28rem;
+  text-align: justify;
+  padding-left: 1rem;
+  color: rgb(150, 147, 147);
+}
+.skm span {
+  color: rgb(38, 0, 128);
+}
+
+/*first page*/
+/*second page*/
+.logo {
+  padding-left: 1rem;
+  padding-top: 2rem;
+}
+.second-1 h2 {
+  text-align: center;
+  font-weight: bold;
+  font-weight: 750;
+}
+.second-1 h3 {
+  text-align: center;
+  font-size: 0.9rem;
+  padding-right: 9rem;
+  color: rgb(154, 151, 151);
+  padding-top: 0.5rem;
+}
+
+.second-1 h4 {
+  text-align: center;
+  font-weight: bold;
+  font-weight: 750;
+  padding-right: 24rem;
+  font-size: 1.25rem;
+}
+.second-2 img {
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  left: 30%;
+  position: absolute;
+
+}
+
+.second-3 label
+{
+border-radius:  5px 5px 5px;
+border-width: 1px;
+width: 7rem;
+height: 2rem;
+font-size: .9rem;
+font-weight: bold;
+color: rgb(58, 54, 54);
+right: 49%;
+position: absolute;
+margin-top: 60px;
+background-color: #FFFFFF;
+border-color: rgb(161, 154, 154);
+border: solid; 
+text-align: center; 
+}
+
+.second-3 input
+{
+display: none;
+}
+.second-3 h6
+{
+font-size: .9rem;
+text-align: left;
+color: rgb(142, 138, 131);
+padding-right: 4rem;
+text-align: justify;
+}
+
+.second-4 h5 {
+  text-align: center;
+  font-weight: bold;
+  font-weight: 750;
+  padding-right: 24rem;
+  font-size: 1.25rem;}
+
+.second-4 input
+  {
+height: 2rem;
+width: 50%;
+border: hidden;
+border-bottom: 2px solid silver;
+left: 31.1%;
+position: absolute;
+}
+.second-5 button
+{
+  background-color: rgb(242, 112, 135);
+  border-radius: 10px 10px 10px 10px;
+  width: 13rem;
+  height: 2rem;
+  color: white;
+  font-size: 0.4;
+  left: 31.1%;
+position: absolute;
+}
+
+
+/*second page*/
+/*third page*/
+.next-1 h2 {
+  text-align: center;
+  font-weight: bold;
+  font-weight: 750;
+}
+.next-1 h3 {
+  text-align: center;
+  font-size: 1rem;
+  color: rgb(154, 151, 151);
+  padding-top: 0.5rem;
+}
+
+
+.box-container
+{
+	border: 0px solid;
+	display: grid;
+	grid-template-columns: repeat(auto-fit,minmax(10rem, 1fr));
+	gap: 0rem;
+}
+.box-container .box 
+
+{
+  border: 0px solid;
+  text-align: center;
+  padding-left: 5rem;
+  
+ 
+}
+.box-container .box  h6
+{
+text-align: center;
+padding-left: 5rem;
+padding-right: 2rem;
+font-size: 1.5rem;
+background-size: cover;
+}
+
+.box-container .box-1 
+
+{
+  border: 0px solid;
+  text-align: center;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  
+}
+.box-container .box-1  h6
+{
+text-align: center;
+padding-left: 3rem;
+padding-right: 3rem;
+font-size: 1.5rem;
+background-size: cover;
+}
+.box-container .box-2 
+
+{
+  border: 0px solid;
+  text-align: center;
+  padding-right: 4rem;
+  
+}
+.box-container .box-2 h6
+{
+text-align: center;
+font-size: 1.5rem;
+padding-left: 1rem;
+padding-right: 3.5rem;
+background-size: cover;
+
+}
+.box-3 h5
+{
+  text-align: center;
+  font-size: 1.3rem;
+
+}
+.box-3 input
+{
+  background: rgb(203, 85, 104);
+  border-radius: 10px 10px 10px 10px;
+  border-width: 1px;
+  color: #FFFFFF;
+  cursor: pointer;
+  padding: 5px;
+  text-align: center;
+  width: 200px;
+  left: 42%;
+  position: absolute;
+  
+   
+    
+
+}
+/*third page*/
+/*fourth page*/
+#header
+{
+    display: flex;
+    align-items: left;
+   padding:10px 10px;
+    background: #fffefe;
+    box-shadow: 0 5px 15px rgb(0, 0, 0,0.06);
+}
+
+#navbar
+{
+    display: flex;
+    align-items: left;
+}
+
+#navbar li{
+    list-style: none;
+    text-align: left;
+    padding: 1rem 1rem;
+    position: relative;
+    margin-top: 1.2rem;
+     
+    
+}
+#navbar li a{
+    color: rgb(125, 124, 122);
+}
+.anni input
+{
+width: 6rem;
+font-size: 1rem;
+height: 1.5rem;
+cursor: pointer;
+text-align: left;
+left: 80%;
+position: absolute;
+margin-top: 2rem;
+background-color: whitesmoke;
+
+}
+
+.anni-1 img {
+  height: 25px;
+  width: 25px;
+  border-radius: 5%;
+  margin-top: 2rem;
+  left: 89%;
+  position: absolute;
+
+}
+
+.anni-2 label
+{
+
+  width: 6rem;
+  font-size: 1rem;
+  height: 1.5rem;
+  cursor: pointer;
+  text-align: center;
+  left: 92%;
+  position: absolute;
+  margin-top: 2rem;
+  background-color:rgb(255, 122, 144); 
+  color: #fffefe;
+  border-radius:  5px 5px 5px;
+}
+
+.anni-2 input
+{
+display: none;
+}
+.anni-3 h1
+{
+text-align: center;
+font-weight: bold;
+
+}
+.anni-3 img
+{
+padding-left:37rem ;
+}
+.anni-3 h2
+{
+text-align: center;
+font-size: 1.2rem;
+color: rgb(120, 117, 117);
+}
+.anni-3 h3
+{
+text-align: center;
+font-size: 1.2rem;
+font-weight: bold;
+}
+.anni-3 h4
+{
+  text-align: center;
+  font-size: 1.2rem;
+  color: rgb(120, 117, 117);
+  padding-left: 15rem;
+  padding-right: 15rem;
+}
+.anni-3 span
+{
+font-size: 1.2rem;
+color: rgb(196, 81, 100);
+}
+
+.anni-4
+{
+  width: 1500px;
+  height: 600px;
+  background-color: rgb(248, 242, 242);
+}
+
+
+
+
+/*fourth page*/
